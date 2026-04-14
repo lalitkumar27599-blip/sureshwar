@@ -1,20 +1,20 @@
 body{
-    
-    background-color: brown;
+    background-color:white;
     padding: 2px;
-    border: 2px solid black;
-    
 }
 div {
-    width: 200px;
-    height: 300px;
-    padding: 200px;
+    width:200px;
+    height:300px;
+    padding:2px;
     border: 2px solid black;
     
 }
 h1 {
     color: white;
     align-content: center;
+}
+button{
+    color:black;
 }
 
 
