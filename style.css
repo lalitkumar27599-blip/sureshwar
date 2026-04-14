@@ -1,9 +1,20 @@
-h1 {
-    color: blue;
+body{
+    
     background-color: brown;
+    padding: 2px;
+    border: 2px solid black;
+    
+}
+div {
+    width: 200px;
+    height: 300px;
     padding: 200px;
     border: 2px solid black;
     
+}
+h1 {
+    color: white;
+    align-content: center;
 }
 
 
